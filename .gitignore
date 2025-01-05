@@ -30,6 +30,7 @@ ENV/
 *.venv
 pip-log.txt
 pip-delete-this-directory.txt
+.env*
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
